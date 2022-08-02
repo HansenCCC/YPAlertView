@@ -1,0 +1,6 @@
+framework module YPAlertView {
+  umbrella header "YPAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

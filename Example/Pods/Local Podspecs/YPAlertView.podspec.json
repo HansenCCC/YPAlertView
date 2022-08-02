@@ -1,0 +1,22 @@
+{
+  "name": "YPAlertView",
+  "version": "0.1.0",
+  "summary": "A short description of YPAlertView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenghengsheng/YPAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenghengsheng": "chenghs@shinemo.com"
+  },
+  "source": {
+    "git": "https://github.com/chenghengsheng/YPAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YPAlertView/Classes/**/*"
+}
